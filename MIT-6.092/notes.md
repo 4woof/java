@@ -1,6 +1,6 @@
 # MIT 6.092 Lecture Notes
 
-## Lecture 1: Types, Variables, Operators
+### Lecture 1: Types, Variables, Operators
 
 * Programming languages like Java help us humans instruct the CPU.
 * Steps to run a Java program: Source Code (.java) -> javac -> Byte Code (.class) -> java
