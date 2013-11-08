@@ -23,3 +23,17 @@
 * Method parameters are like defining a new variable in the method.
 * Abstraction is the sense that a user does not need to know how a method works, only how to use it.
 * Conversion by method: `Integer.toString()` and `Integer.parseInt()`
+
+### Lecture 3: Loops, Arrays
+
+* Rules:
+  1. Use meaningful names.
+  2. Use indentation.
+  3. Use whitespaces and blank lines for readability.
+  4. Do not duplicate tests.
+* Loops allow many iterations of code to occur.
+* Loops such as while, for allow breaking and continuing to modify the bahaviour of the loop.
+* All elements of an arry must have the same type (unlike Python lists or dicts).
+* `type[] name = new type[size];`
+* Curly braces can be used to initialize an array only when you declare the variable.
+* Arrays have a length variable built-in.
