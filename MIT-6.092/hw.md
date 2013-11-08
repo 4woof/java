@@ -8,3 +8,11 @@ Finished and results agreed with Part Two's intended result of -490.5 m. File is
 2. Output from Part Two: The object's position after 10.0 seconds is -490.50000000000006 m.
 
 ### Assignment 2
+
+Output from Assignment:
+
+  Error: Base pay cannot be under minimum wage.
+  Employee 1 Wages: $262.5
+  Employee 2 Wages: $414.1
+  Error: Number of hours worked greater than 60.
+  Employee 3 Wages: $895.0
