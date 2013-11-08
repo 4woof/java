@@ -11,8 +11,8 @@ Finished and results agreed with Part Two's intended result of -490.5 m. File is
 
 Output from Assignment:
 
-  Error: Base pay cannot be under minimum wage.
-  Employee 1 Wages: $262.5
-  Employee 2 Wages: $414.1
-  Error: Number of hours worked greater than 60.
-  Employee 3 Wages: $895.0
+    Error: Base pay cannot be under minimum wage.  
+    Employee 1 Wages: $262.5  
+    Employee 2 Wages: $414.1  
+    Error: Number of hours worked greater than 60.  
+    Employee 3 Wages: $895.0
