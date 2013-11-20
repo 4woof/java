@@ -16,3 +16,9 @@ Output from Assignment:
     Employee 2 Wages: $414.1  
     Error: Number of hours worked greater than 60.  
     Employee 3 Wages: $895.0
+
+### Assignment 3
+
+Assignment Objective: Find the fastest and second fastest runners.
+
+* Uses methods, arrays, and loops.
