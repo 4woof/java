@@ -40,10 +40,10 @@
 
 ### Lecture 4: Classes and Objects
 
-* Class names are capitalized and are generally limited to 1 per file along with a main method for execution.
-* Constructors are useful for passing in less/more information in creating the object (overloading).
+* Class names are capitalized and are generally limited to 1 per file and include a main method if execution is desirable.
+* Constructors are useful for passing in less/more information in creating the object (overloading), but never return anything.
 * Access to object fields and methods are through the dot method.
 * Object locations are references not actually stored at one place.
 * Creating arrays of objects or accessing methods or fields may modify the object, but never the reference to the object.
-* Static means that the method/field is defined for the class declaration. (not unique)
+* Static means that the method/field is defined for the class declaration instead of the individual objects (gives a global sense).
 * Non-static methods can reference static methods, but not vice versa.
