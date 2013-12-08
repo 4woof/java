@@ -38,4 +38,12 @@
 * Curly braces can be used to initialize an array only when you declare the variable.
 * Arrays have a length variable built-in.
 
-### Lecture 4:
+### Lecture 4: Classes and Objects
+
+* Class names are capitalized and are generally limited to 1 per file along with a main method for execution.
+* Constructors are useful for passing in less/more information in creating the object (overloading).
+* Access to object fields and methods are through the dot method.
+* Object locations are references not actually stored at one place.
+* Creating arrays of objects or accessing methods or fields may modify the object, but never the reference to the object.
+* Static means that the method/field is defined for the class declaration. (not unique)
+* Non-static methods can reference static methods, but not vice versa.
