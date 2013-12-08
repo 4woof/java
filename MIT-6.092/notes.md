@@ -37,3 +37,5 @@
 * `type[] name = new type[size];`
 * Curly braces can be used to initialize an array only when you declare the variable.
 * Arrays have a length variable built-in.
+
+### Lecture 4:
