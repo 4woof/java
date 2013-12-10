@@ -47,3 +47,16 @@
 * Creating arrays of objects or accessing methods or fields may modify the object, but never the reference to the object.
 * Static means that the method/field is defined for the class declaration instead of the individual objects (gives a global sense).
 * Non-static methods can reference static methods, but not vice versa.
+
+### Lecture 5: Access Control, Class Scope, Packages, Java API
+
+* Prive methods/fields are only accessible from within the class.
+* Keyword _this_ specifies scope for fields.
+* Packages contain classes that are accessed directly or indirectly from other packages via imporatation.
+* Packages allow further organization to combine functionality of classes and to separate similar names for separate classes (shopping and packing lists).
+* ArrayList (java.util.ArrayList) allows for a dynamic structure for arrays.
+* Sets are like ArrayLists, but do not have an index and only one copy of each object.
+* TreeSet (ordered lowest to highest) and HashSet (unordered) are two examples.
+* Maps are just like dictionaries with key-value pair.
+* Comparable interface is an issue for TreeSet/TreeMap classes that we build.
+* "equals" and hashCode methods are concerns for use of HashSet/HashMap classes that we build.
