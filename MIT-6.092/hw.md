@@ -29,3 +29,16 @@ Output from Assignment:
 
     John: 243
     Kate: 265
+
+### Assignment 4: Book.java & Library.java
+
+Assignment to learn about classes and the use of object-oriented programming.
+
+* Uses static methods and object classes.
+* Uses arrays of objects (an array of books for a library).
+* Uses object methods and also object constructors.
+* Obtained desired result for assignment.
+
+Note: Output within object methods not desirable. Also, extended to check that returning a book not within specified library collection.
+
+### Assignment 5:
