@@ -41,4 +41,10 @@ Assignment to learn about classes and the use of object-oriented programming.
 
 Note: Output within object methods not desirable. Also, extended to check that returning a book not within specified library collection.
 
-### Assignment 5:
+### Assignment 5: Graphics (SimpleDraw.java, BouncingBox.java, DrawGraphics.java)
+
+* Add three different shapes to the initial window provided.
+* Add three instances of the BouncingBox class to the window, moving in different directions. Use an ArrayList as a container.
+
+* I added a filled 3d rectangle, an outline of an oval, and text stating that I completed part 1 of the assignment.
+* I created 3 boxes (red, blue, and green respectively), animated them in different directions all by using an ArrayList container within the class.
